@@ -1,0 +1,36 @@
+#################################################################
+# If you used Vina-GPU in your work, please cite:               #
+#                                                               #
+#Shidi, Tang, Chen Ruiqi, Lin Mengru, Lin Qingde,               #
+#Zhu Yanxiang, Wu Jiansheng, Hu Haifeng, and Ling Ming.         #
+#Accelerating AutoDock VINA with GPUs. ChemRxiv (2021).Print.   #
+#                                                               #
+#DOI 10.26434/chemrxiv-2021-3qvn2-v3                            #
+#                                                               #
+# And also the origin AutoDock Vina paper:                      #
+# O. Trott, A. J. Olson,                                        #
+# AutoDock Vina: improving the speed and accuracy of docking    #
+# with a new scoring function, efficient optimization and       #
+# multithreading, Journal of Computational Chemistry 31 (2010)  #
+# 455-461                                                       #
+#                                                               #
+# DOI 10.1002/jcc.21334                                         #
+#                                                               #
+#################################################################
+
+Using virtual sreening mode
+
+Output will be in the directory ./aganitha_data/bbio_mols_pdbqt_out
+Reading input ... done.
+Setting up the scoring function ... done.
+Using heuristic search_depth
+Analyzing the binding site ... done.
+GPU Platform: NVIDIA CUDA
+GPU Device: NVIDIA GeForce RTX 4090
+Using random seed: 1097779040
+
+Build kernel 1 from source
+OpenCL version: 2.0
+Build kernel 2 from source
+OpenCL version: 2.0
+Perform docking|=======                              |Perform docking| =======                             |Perform docking|  =======                            |Perform docking|   =======                           |Perform docking|    =======                          |Perform docking|     =======                         |Perform docking|      =======                        |Perform docking|       =======                       |Perform docking|        =======                      |
